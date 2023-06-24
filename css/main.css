@@ -1,0 +1,70 @@
+/* ------ nav ----------*/
+
+.ico_nav{
+    width: 30px;
+}
+/*--------- main ---------*/
+
+main{
+    min-height: 75vh;
+    padding: 2em 0;
+}
+
+/*------- footer -------*/
+.footer{
+    color: #fff;
+    background: #212529;
+}
+
+
+/* ------ table ----------*/
+.div_table {
+    overflow-x: auto;
+}
+.icon_table_d_u{
+    width: 30PX;
+}
+
+
+
+
+
+/*------- canva ------*/
+
+.div_canva{
+    background: #212529f6;
+    border-radius: 20px;
+    flex-direction: column;
+}
+
+.can_text{
+    color: #fff;
+}
+
+
+/*----------- search ------------*/
+
+.div_img_user{
+    background: #212529;
+    border-radius: 20px 0 0 20px;
+}
+
+.div_img_content{
+    border: 2px solid #212529;
+    border-radius: 0 20px 20px 0;
+}
+@media (max-width: 768px){
+    .div_img_user{
+        border-radius: 20px  20px 0   0;
+    }
+    
+    .div_img_content{
+        border-radius: 0 0 20px 20px;
+    }
+}
+
+.img_user{
+    width: 150px;
+}
+
+

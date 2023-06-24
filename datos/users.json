@@ -1,0 +1,101 @@
+[
+    {
+        "userId": 1,
+        "userName": "Soquel",
+        "correo" : "hola@soquel.suscribete",
+        "img" : "img/user.svg",
+        "edad" : 20,
+        "genero" : "Hombre",
+        "pais" : "España"
+    },
+    {
+        "userId": 2,
+        "userName": "Juan",
+        "correo" : "hola@soquel.suscribete",
+        "img" : "img/user.svg",
+        "edad" : 13,
+        "genero" : "Mujer",
+        "pais" : "EE UU"
+    },
+    {
+        "userId": 3,
+        "userName": "Pedro",
+        "correo" : "hola@soquel.suscribete",
+        "img" : "img/user.svg",
+        "edad" : 20,
+        "genero" : "Transexual",
+        "pais" : "España"
+    },
+    {
+        "userId": 4,
+        "userName": "Pancho",
+        "correo" : "hola@soquel.suscribete",
+        "img" : "img/user.svg",
+        "edad" : 13,
+        "genero" : "Hombre",
+        "pais" : "Mexico"
+    },
+    {
+        "userId": 5,
+        "userName": "Leslie",
+        "correo" : "hola@soquel.suscribete",
+        "img" : "img/user.svg",
+        "edad" : 45,
+        "genero" : "Pansexualidad",
+        "pais" : "España"
+    },
+    {
+        "userId": 6,
+        "userName": "Melisa",
+        "correo" : "hola@soquel.suscribete",
+        "img" : "img/user.svg",
+        "edad" : 20,
+        "genero" : "Hombre",
+        "pais" : "EE UU"
+    },
+    {
+        "userId": 7,
+        "userName": "Juan",
+        "correo" : "hola@soquel.suscribete",
+        "img" : "img/user.svg",
+        "edad" : 10,
+        "genero" : "Pansexualidad",
+        "pais" : "Mexico"
+    },
+    {
+        "userId": 8,
+        "userName": "Pedro",
+        "correo" : "hola@soquel.suscribete",
+        "img" : "img/user.svg",
+        "edad" : 13,
+        "genero" : "Asexualidad",
+        "pais" : "Mexico"
+    },
+    {
+        "userId": 9,
+        "userName": "Pancho",
+        "correo" : "hola@soquel.suscribete",
+        "img" : "img/user.svg",
+        "edad" : 50,
+        "genero" : "Mujer",
+        "pais" : "Mexico"
+    },
+    {
+        "userId": 10,
+        "userName": "Leslie",
+        "correo" : "hola@soquel.suscribete",
+        "img" : "img/user.svg",
+        "edad" : 18,
+        "genero" : "Mujer",
+        "pais" : "Colombia"
+    },
+    {
+        "userId": 11,
+        "userName": "Melisa",
+        "correo" : "hola@soquel.suscribete",
+        "img" : "img/user.svg",
+        "edad" : 18,
+        "genero" : "Mujer",
+        "pais" : "Peru"
+    }
+]
